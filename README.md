@@ -2,4 +2,10 @@
 
 Spotify But Bop-ier
 
-⚠️ You will need your own Client ID and Client Secret from the Spotify API and docs. ⚠️
+## Requirements
+
+You will need your own:
+
+- Client ID
+- Client Secret
+- Active Spotify Subscription
